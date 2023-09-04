@@ -1,0 +1,3 @@
+week01
+- orientation, vesion control system
+- git, github, go programing language
