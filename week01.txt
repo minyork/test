@@ -1,3 +1,6 @@
 week01
 - orientation, vesion control system
 - git, github, go programing language
+
+week02
+- download
