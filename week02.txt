@@ -1,0 +1,11 @@
+week02
+- linux command already know..
+
+git command :
+1. $git init
+2. $git status
+3. $git config --global user.email "minyork0312@gmail.com"
+4. $git config --global user.name "minyork"
+5. $git add (file name.txt)
+6. $git commit -m "v숫자"  => 버전
+7. $git log
